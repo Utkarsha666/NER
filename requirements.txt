@@ -1,0 +1,7 @@
+altair
+pandas
+streamlit
+transformers==4.28.0
+datasets
+seqeval
+torch
